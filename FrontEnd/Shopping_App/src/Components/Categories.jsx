@@ -4,7 +4,7 @@ import CategoryItem from './CategoryItem'
 
 function Categories() {
   return (
-    <div className='flex bg-gray-300  p-5 justify-around w-full '>
+    <div className='flex bg-blueCustom2-0  p-5 justify-around w-full '>
         {
             categories.map(item=>(<CategoryItem item={item}key={item.id}/>))
         }

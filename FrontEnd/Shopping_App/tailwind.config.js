@@ -9,6 +9,12 @@ export default {
         ubuntu: ["Ubuntu", "sans-serif"],
         urbanist: ["Urbanist", "sans-serif"],
       },
+      colors: {
+        blueCustom1: ["#4E4FEB"],
+        blueCustom2: ["#060047"],
+        teal1: ["#22A699"],
+        peach: ["#F5EAEA"],
+      },
     },
   },
   plugins: [],
